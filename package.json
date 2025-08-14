@@ -1,0 +1,22 @@
+{
+  "name": "@helicohedron/multiple-currency-converter",
+  "version": "1.0.0",
+  "main": "convert-amount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helicohedron/multiple-currency-converter.git"
+  },
+  "keywords": [],
+  "author": "helicohedron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helicohedron/multiple-currency-converter/issues"
+  },
+  "homepage": "https://github.com/helicohedron/multiple-currency-converter#readme",
+  "description": "Multiple currency converter packager",
+  "type": "module"
+  
+}

@@ -27,6 +27,4 @@ export async function convertAmount(userInput) {
 }
 
 
-console.log(await convertAmount(['USD', ['EUR', 'PHP', 'JPY'], 1]))
-
 
