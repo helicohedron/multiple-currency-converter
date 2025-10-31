@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/helicohedron/multiple-currency-converter.git"
   },
+    "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [],
   "author": "helicohedron",
   "license": "ISC",
